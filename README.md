@@ -18,4 +18,7 @@ This project is a simple console-based bank application written in Java. Its pur
 - **Input and Choice Handling**: The program uses a Scanner object to read the user’s input and a switch statement to handle the different actions based on the user’s choice.
 - **Looping**: A do-while loop ensures the menu keeps reappearing after each action, allowing the user to perform multiple operations until they choose to exit by selecting option 4.
 
+# How to run the project:
+Within the terminal firstly type in `javac BankApplication.java` to load the BankApplication class. Then run the app with `java BankApplication`.
+
 
