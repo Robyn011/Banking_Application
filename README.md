@@ -14,8 +14,8 @@ This project is a simple console-based bank application written in Java. Its pur
 - **Exit**: Users can exit the application, effectively ending the program.
 
 # How the Program Works
-**User Interaction**: A menu interface is displayed in the console, allowing the user to select options by entering numbers corresponding to each action (e.g., 1 for "Check Balance").
-**Input and Choice Handling**: The program uses a Scanner object to read the user’s input and a switch statement to handle the different actions based on the user’s choice.
-**Looping**: A do-while loop ensures the menu keeps reappearing after each action, allowing the user to perform multiple operations until they choose to exit by selecting option 4.
+- **User Interaction**: A menu interface is displayed in the console, allowing the user to select options by entering numbers corresponding to each action (e.g., 1 for "Check Balance").
+- **Input and Choice Handling**: The program uses a Scanner object to read the user’s input and a switch statement to handle the different actions based on the user’s choice.
+- **Looping**: A do-while loop ensures the menu keeps reappearing after each action, allowing the user to perform multiple operations until they choose to exit by selecting option 4.
 
 
