@@ -36,7 +36,7 @@ public class BankApplication {
             switch (choice) {
                 case 1:
                     // Option 1: Display the current balance
-                    System.out.println("Current Balance: R" + account.getBalance());
+                    System.out.println("Current Balance: $" + account.getBalance());
                     break;
                 case 2:
                     // Option 2: Deposit money
